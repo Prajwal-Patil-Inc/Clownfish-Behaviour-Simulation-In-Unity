@@ -39,17 +39,15 @@ Key simulated behaviours:
 
 ---
 
-## 📸 Screenshots / Demo
-*(Add GIFs or screenshots of your aquarium here)*
-
----
-
 ## 📂 Project Structure
 - Assets
 - Scripts -> C# scripts for behaviours and state machine logic
 - Prefabs -> Clownfish and environment prefabs
 - Scenes -> Unity scenes (main aquarium, test environments)
 
+---
+
+## 📸 Screenshots / Demo
 
 [![Watch the video](https://img.youtube.com/vi/Yb9kVChLPtk/maxresdefault.jpg)](https://youtu.be/Yb9kVChLPtk?si=SUZNmCjgBNPA6zGd)
 
